@@ -8,4 +8,4 @@ RapidAI研究院为RapidAI开源组织下属学术机构，民办非企业学术
 
 ### 四川民族学院 丹尼博导师名下学生成为见习研究员 
 
-本研究院研究员所发表论文，第二作者单位标注为  RapidAI Research Institute， 邮箱后缀 @rapidai.tech
+本研究院研究员所发表论文，第二作者单位标注为  RapidAI Research Institute， 邮箱后缀 @rapidai.tech，所有研究员提供永久邮箱服务，便于与同行长期学术交流。
