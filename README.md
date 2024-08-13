@@ -1,1 +1,1 @@
-# .github
+# RapidAI 研究院
